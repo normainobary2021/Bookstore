@@ -3,7 +3,7 @@ import './styles/Category.css';
 const Category = () => (
   <div className="categories">
     <button type="button" className="status-btn">
-      Coming Soon
+      Check Status
     </button>
   </div>
 );
